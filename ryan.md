@@ -1,4 +1,6 @@
-![Matrix SVG](https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif)
+
+<p align="center">
+<a href=""><img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" alt="The matrix"/></p>
   <h1 align="center"><b>Ryan🤖</b></h1>
 
   <p align="center">
