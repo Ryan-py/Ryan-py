@@ -7,7 +7,7 @@
 <br>
 <a href="https://twitter.com/r_y_a_n_KE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ryan-kiprotich-0086b622a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:ryankiprotich42@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;</p>
+<a href="mailto:ryankiprotich42@gmail.com?subject=Hello Ryan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;</p>
 
 ## Intrests
   - TinyMl
