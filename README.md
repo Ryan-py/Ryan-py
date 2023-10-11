@@ -42,7 +42,7 @@
 
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=blue-green)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-py&theme=blue-green)
 
 
 
