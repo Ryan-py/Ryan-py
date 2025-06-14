@@ -45,5 +45,5 @@
 
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-py&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-py&show_icons=true&theme=dark)
 
